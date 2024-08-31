@@ -50,7 +50,7 @@ nav{
     width: 100vw;
     height: 100vh;
     background-color: black;
-    background: url('/assets/img/cars/bmw.webp');
+    background: url('assets/img/cars/bmw.webp');
     background-size: contain;
     background-repeat:no-repeat;
     background-position: center;
@@ -129,7 +129,7 @@ height: auto;
     position: relative;
     padding-top: 2em;
     color: white;
-    background: url('/assets/img/cars/bg.webp');
+    background: url('assets/img/cars/bg.webp');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
