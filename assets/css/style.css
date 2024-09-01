@@ -6,7 +6,7 @@
 
 .header{
     position:fixed;
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: flex;
     justify-content: space-between;
@@ -17,7 +17,7 @@
 
 nav{
     position: relative;
-    padding: 15px 20px;
+    padding: 15px 0px;
 }
 
 .nav-right{
@@ -50,7 +50,7 @@ nav{
     width: 100vw;
     height: 100vh;
     background-color: black;
-    background-image: url('https://i.pinimg.com/736x/7c/e4/83/7ce48348fbc10b2436add66146b3c4c2.jpg');
+    background-image: url('/assets/img/cars/bmw.webp');
     background-size: contain;
     background-repeat:no-repeat;
     background-position: center;
@@ -129,7 +129,7 @@ height: auto;
     position: relative;
     padding-top: 2em;
     color: white;
-    background-image: url('//assets/img/cars/bg.webp');
+    background-image: url('/assets/img/cars/bg.webp');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
